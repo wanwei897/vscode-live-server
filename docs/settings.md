@@ -13,7 +13,7 @@
     <hr>
  
 * **`liveServer.settings.CustomBrowser`:** To change your system's default browser.
-    * _Default value is `null` ~~[String, not `null`]~~. (It will open your system's default browser.)_
+    * _Default value is `chrome` ~~[String, not `null`]~~. (It will open your system's default browser.)_
     * *Available Options :*
         * chrome
         * chrome:PrivateMode
